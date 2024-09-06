@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/driver-drowsiness-detection.git
+git clone https://github.com/Sharanagouda-01/DriveaGaurd--Driver-drowsiness-detetction-using-OpenCV.git
 
 Navigate to the project directory:
 
